@@ -1,4 +1,4 @@
 # hello-world
 My First Hello World Repository 
-New changes added again in master branch.
+New edit changes added again in new-edits branch.
 
